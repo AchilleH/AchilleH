@@ -1,6 +1,6 @@
 ### Currently
 - setting up a portfolio website
-- setting up a drip watering pot for some leafy greens, needing to waterproof some 3d prints
+- setting up a drip watering pot for some leafy greens, need to waterprood the resevoir(3d printed)
 
 <!--
 **AchilleH/AchilleH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
